@@ -13,3 +13,7 @@ conda install -c conda-forge imageio matplotlib pandas tqdm
 pip install opencv-python
 pip install flickrapi
 ```
+
+For SfM reconstruction, you will also need to install COLMAP. Follow the instructions here:
+https://colmap.github.io/install.html
+
