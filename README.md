@@ -1,5 +1,6 @@
 # Time Lapse Mining
 
+Please see this [link](https://inst.eecs.berkeley.edu/~cs194-26/fa22/upload/files/projFinalProposed/cs194-26-aeg/Nabeel_Hingun_FinalProposedProject/Time-lapse%20Mining%20from%20Internet%20Photos%201931f579ceea4e3dba8734cb201e356f.html) for the project results.
 
 ## Installation
 
